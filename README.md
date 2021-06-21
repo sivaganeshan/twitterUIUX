@@ -1,4 +1,4 @@
 # twitterUIUX
-Twitter UI/UX -  Flexbox
-Sofar only implemented Sidemenu bar.
+Twitter UI/UX -  Flexbox <br>
+So far implemented Sidemenu bar.  <br>
 work in progress.
